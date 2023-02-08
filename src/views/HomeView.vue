@@ -2,6 +2,7 @@
 import TheSignature from "../components/TheSignature.vue";
 import SideHover from "../components/SlideHover.vue";
 import ThreeDotsLoader from "../components/ThreeDotsLoader.vue";
+import SnowBall from "@/components/SnowBall.vue";
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import ThreeDotsLoader from "../components/ThreeDotsLoader.vue";
     <TheSignature />
     <SideHover />
     <ThreeDotsLoader />
+    <SnowBall />
   </main>
 </template>
