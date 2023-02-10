@@ -103,7 +103,7 @@ const dialog = ref(false);
 <style scoped>
 .wrapper {
   background-color: #241e4e;
-  height: 80vh;
+  height: 75vh;
   padding: 0;
   margin: 0;
 }
